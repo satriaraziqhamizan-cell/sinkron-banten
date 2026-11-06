@@ -1,0 +1,6 @@
+{
+  "name": "SINKRON Banten - Sistem Integrasi Vokasi & Industri",
+  "description": "Sistem Integrasi Kebutuhan Industri dan Kompetensi Vokasi Provinsi Banten. Menghubungkan kurikulum sekolah, sinyal kebutuhan industri, dan pelacakan lulusan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

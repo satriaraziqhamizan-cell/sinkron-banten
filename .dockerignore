@@ -1,0 +1,11 @@
+.env
+.env.local
+data/
+node_modules/
+.aistudio/
+.git/
+dist/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
